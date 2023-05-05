@@ -1,0 +1,39 @@
+.barra-b4 {
+    width: auto;
+    border: 0.31rem solid #474545;
+}
+
+.barra-b2 {
+    width: auto;
+    border: 0.2rem solid #474545;
+}
+
+.barra-tracejada {
+    border: dashed 1px;
+}
+
+.linha-1 {
+    --bs-gutter-x: 0;
+    height: auto;
+    border: 2px solid;
+}
+
+.linha-2 {
+    --bs-gutter-x: 0;
+    height: auto;
+    border: 4px solid;
+}
+
+.linha-3 {
+    --bs-gutter-x: 0;
+    height: auto;
+    border: 6px solid;
+}
+
+.fundo {
+    background-image: url(../img/fundo-preto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p.card-text {}
