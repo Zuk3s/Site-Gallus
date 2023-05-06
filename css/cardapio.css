@@ -1,6 +1,14 @@
+.bg-orange {
+    color: #EF8100;
+}
+
+.bg-red {
+    background-color: #FE0000;
+}
+
 .barra-b4 {
     width: auto;
-    border: 0.31rem solid #474545;
+    border: 0.32rem solid #474545;
 }
 
 .barra-b2 {
