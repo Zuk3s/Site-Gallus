@@ -44,4 +44,6 @@
     background-size: cover;
 }
 
-p.card-text {}
+.underline {
+    border-bottom: 0.05rem solid;
+}
