@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+
+}
+
 .bg-orange {
     color: #EF8100;
 }
@@ -46,4 +51,8 @@
 
 .underline {
     border-bottom: 0.05rem solid;
+}
+
+.row {
+    --bs-gutter-x: 0!important;
 }
