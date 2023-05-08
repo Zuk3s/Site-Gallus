@@ -54,5 +54,10 @@ body {
 }
 
 .row {
-    --bs-gutter-x: 0!important;
+    --bs-gutter-x: 0 !important;
+}
+
+.fa-child::before {
+    position: relative;
+    bottom: -4px;
 }
