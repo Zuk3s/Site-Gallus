@@ -7,6 +7,10 @@ body {
     color: #EF8100;
 }
 
+.bg-red1 {
+    color: #FE0000;
+ }
+
 .bg-red {
     background-color: #FE0000;
 }
