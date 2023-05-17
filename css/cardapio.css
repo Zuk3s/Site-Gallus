@@ -9,7 +9,7 @@ body {
 
 .bg-red1 {
     color: #FE0000;
- }
+}
 
 .bg-red {
     background-color: #FE0000;
@@ -64,4 +64,11 @@ body {
 .fa-child::before {
     position: relative;
     bottom: -4px;
+}
+
+.molho {
+    border-radius: 50%;
+    width: 60%;
+    margin: auto;
+    border: 4px solid #474545;
 }
