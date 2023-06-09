@@ -71,4 +71,5 @@ body {
     width: 60%;
     margin: auto;
     box-shadow: 0 2px 10px 5px rgba(0, 0, 0, 0.2);
+    border: 2px solid black;
 }
