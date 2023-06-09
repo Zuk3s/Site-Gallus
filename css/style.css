@@ -1,0 +1,13 @@
+.borda-dourada {
+    border: 6px solid #c29500;
+}
+
+.borda-top {
+    border-bottom: 0;
+    border-right: 0;
+    border-left: 0;
+}
+
+.color-dourado {
+    color: #c29500;
+}
